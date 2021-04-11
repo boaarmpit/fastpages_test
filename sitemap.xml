@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://bryn.pro/fastpages_test/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://bryn.pro/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://bryn.pro/fastpages_test/jupyter/2020/02/20/test.html</loc>
+<loc>https://bryn.pro/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://bryn.pro/fastpages_test/about/</loc>
+<loc>https://bryn.pro/about/</loc>
 </url>
 <url>
-<loc>https://bryn.pro/fastpages_test/</loc>
+<loc>https://bryn.pro/</loc>
 </url>
 <url>
-<loc>https://bryn.pro/fastpages_test/search/</loc>
+<loc>https://bryn.pro/search/</loc>
 </url>
 <url>
-<loc>https://bryn.pro/fastpages_test/categories/</loc>
+<loc>https://bryn.pro/categories/</loc>
 </url>
 </urlset>
