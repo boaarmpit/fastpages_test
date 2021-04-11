@@ -4,6 +4,7 @@ layout: post
 description: Another minimal example of using markdown with fastpages.
 categories: [markdown]
 title: Another Example Markdown Post
+comments: true
 ---
 # Example Markdown Post
 
